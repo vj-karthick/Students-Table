@@ -15,4 +15,4 @@ Simulated loading state
 Download Excel for full data or filtered data
 
 Deployment
-Hosted on Vercel / Netlify
+Hosted on Netlify
